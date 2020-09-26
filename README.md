@@ -10,12 +10,8 @@ The rules are simple. As circles start appearing on the screen, you have to pres
 
 • Bomb = lose half of your current total points
 
-<div id="game-pics">
-    <div style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing1.png" width="300" height="600" />
-    </div>
+<p float="left">
+        <img src="https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing1.png" width="300" height="600" 
     <div style="display: inline-block;"">
-        <img src= "https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing3.png" width="300" height="600" 
-        />
-    </div>
-</div>
+        <img src= "https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing3.png" width="300" height="600">
+</p>
