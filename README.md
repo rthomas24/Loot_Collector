@@ -1,19 +1,21 @@
-# Loot-Collector
-• Iphone game that tests your reaction time. More circles will start to appear as your score gets higher. 
+# Loot Collector
+### What is Loot Collector
+Loot Collector is an iPhone game, made in Xcode version 12.0 targeted for iOS version 14.0, that tests your reaction time. The game can be downloaded from the app store [here](https://apps.apple.com/us/app/loot-collector/id1533012748). 
 
-• If a circle disappears before you click it you will lose, all while avoiding the bombs that appear.
+The rules are simple. As circles start appearing on the screen, you have to press on them before they shrink to oblivion. Otherwise, if one circle disappears before you press it, then you will lose the game. Gold coins and bombs will also show up on the screen as the game progresses, and not pressing on these items before they disappear will not result in a loss. Depending on which item you click on, you will either gain or lose a certain amount of points:
 
-• There is gold coins that will give you +5 points but it is okay to not collect them. They are simply a bonus.
+• Circle = +1 point
 
-• If a bomb is hit your entire score is immediately cut in half.
+• Gold coin = +5 points
 
-• IOS Version used = 14.0
+• Bomb = lose half of your current total points
 
-• Xcode version used = 12.0
-
-• Download the game to play here - https://apps.apple.com/us/app/loot-collector/id1533012748
-
-
-<img src="https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing1.png" width="300" height="600" />
-
-<img src= "https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing3.png" width="300" height="600" />
+<div id="game-pics">
+    <div style="display: inline-block;">
+        <img src="https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing1.png" width="300" height="600" />
+    </div>
+    <div style="display: inline-block;"">
+        <img src= "https://raw.githubusercontent.com/rthomas24/Loot_Collector/master/Documenation/Playing3.png" width="300" height="600" 
+        />
+    </div>
+</div>
